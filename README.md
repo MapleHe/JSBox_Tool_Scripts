@@ -35,6 +35,7 @@ Modification:
 
 + Add "action" backup&restore function like XPin to Pin+.
 + Fix the display error in "scroll method" setting of bottom action frame.
++ Update bilibili cover downloader script, support "BV" id. (2020-04-17)
 
 Note:
 
